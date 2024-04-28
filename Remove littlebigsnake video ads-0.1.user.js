@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  remove video ads
-// @author       You
+// @author       Andrew Allen https://github.com/a2intl
 // @match        https://littlebigsnake.com/
 // @grant        all
 // ==/UserScript==
