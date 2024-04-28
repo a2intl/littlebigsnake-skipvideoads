@@ -11,7 +11,6 @@
 var lastskip = null;
 
 function skipVideo(v) {
-  //v.src='file:///home/a2/smallvideo.mp4'
   if(v != lastskip)
   {
     v.addEventListener('canplay', (event) => { skipVideo(event.target) });
